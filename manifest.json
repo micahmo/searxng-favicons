@@ -11,7 +11,7 @@
       },
     "name": "SearXNG Favicons",
     "description": "Add favicons next to results for SearXNG.",
-    "version": "0.5",
+    "version": "0.6",
     "icons": { "32": "images/searxng-favicons-32.png" },
     "manifest_version": 3,
     "permissions": [
