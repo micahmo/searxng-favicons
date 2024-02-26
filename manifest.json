@@ -1,0 +1,25 @@
+{
+    "browser_specific_settings": {
+        "gecko": {
+          "id": "searxng-favicons@micahmo.com",
+          "strict_min_version": "42.0"
+        }
+      },
+    "name": "SearXNG Favicons",
+    "description": "Add favicons next to results for SearXNG.",
+    "version": "1.0",
+    "icons": { "32": "images/searxng-favicons-32.png" },
+    "manifest_version": 3,
+    "permissions": [
+        "tabs", "webNavigation", "storage"
+    ],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://*/*"],
+            "js": ["content-script.js"]
+        }
+    ]
+}
