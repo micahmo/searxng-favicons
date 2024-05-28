@@ -14,7 +14,7 @@
 > Content-Security-Policy: The page’s settings blocked the loading of a resource (img-src) at <url> because it violates the following directive: “img-src 'self' data: <url>”
 > ```
 >
-> See #2.
+> See [#2](https://github.com/micahmo/searxng-favicons/issues/2).
 
 Before and after. Click screenshots to expand.
 | ![](https://github.com/micahmo/searxng-favicons/assets/7417301/9f37de7c-705e-400d-becb-647794388458) | ![](https://github.com/micahmo/searxng-favicons/assets/7417301/a9ae03fd-5228-455c-84cc-befd0b52819c) |
