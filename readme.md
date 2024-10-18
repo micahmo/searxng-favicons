@@ -1,3 +1,9 @@
+### Favicons are now supported natively by SearXNG! Thanks to @vojkovic for the implementation! This extension is currently broken by the latest version of SearXNG and there will be no more updates.
+
+https://github.com/searxng/searxng/pull/3727
+
+---
+
 ![](https://github.com/micahmo/searxng-favicons/assets/7417301/f3e569cd-620b-48ee-ad55-3244eb6284f3)
 
 ### A Firefox extension which adds favicons to search results in SearXNG.
